@@ -1,0 +1,210 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.navbar{
+
+    width: 120px;
+    height: 10px;
+    margin: auto;
+
+}
+
+.icon{
+
+    width: 200px;
+    float: right;
+    height: 30px;
+
+}
+
+.logo{
+    color: #0d0d0d;
+    font-size: 25px;
+    font-family: Arial;
+    padding-left:10px;
+    padding-top: 10px;
+}
+
+.menu{
+    width: 400px;
+    float: left;
+    height: 2px;
+
+}
+
+ul{
+    float: left;
+    display: flex;
+    justify-content:left;
+    align-items: center;
+
+}
+
+ul li{
+    color: #ea101b;
+    margin-right: 103px;
+    margin-top: -90px;
+    font-size: 14px;
+
+}
+
+ul li a:hover{
+    color: #a5ea10;
+}
+
+
+.check{
+    background-image: url(manu.jpg);
+    margin-top: 5px;
+    padding-left: 35px;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.paragraph{
+    color: green;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+.paragraph2{
+    color: #0d0d0d;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style:normal;
+}
+
+.contact{
+    color: #0d0d0d;
+    margin-top: 50px;
+    margin-left: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+}
+
+.email{
+    color: #0d0d0d;
+    margin-top: -62px;
+    margin-left: 230px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+
+}
+
+.address{
+    color: #0d0d0d;
+    margin-top: 50px;
+    margin-left: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+}
+
+.form{
+    width: 240px;
+    height: 350px;
+    background: linear-gradient(to,top rgb(120, 120, 150)50%,rgba(123, 116, 116, 0.8)50%);
+    position: absolute;
+    top: 420px;
+    left: 870px;
+    border-radius: 20px;
+    padding: 30px;
+}
+
+.form h2{
+    width: 220px;
+    font-family: sans-serif;
+    margin-left: 30px;
+    color: #a5ea10;
+    font-size: 22px;
+    background: color(rgb(13, 14, 13));
+    border-radius: 10px;
+    margin: 2px;
+    padding: 6px;
+}
+.form input{
+    width: 240px;
+    height: 33px;
+    background: transparent;
+    border-bottom: 1px solid rgb(23, 22, 20);
+    border-top: 30px;
+    border-right: none;
+    border-left: none;
+    color: aliceblue;
+    font-size: 15px;
+    letter-spacing: 1px;
+    margin-top: 10px;
+    font-family: sans-serif;
+}
+
+.btn{
+  width: 140px;
+  height: 40px;
+  background: green;
+  margin-top: 18px;
+  margin-left: -1px;
+  border: none;
+  font-size: 18px;
+  border-radius: 18px;
+
+}
+
+.done{
+    background-image: url(plane.jpg);
+    margin-top: 40px;
+    padding-left: 40px;
+    color: rgb(247, 243, 242);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+
+.energy{
+     margin-top:0px;
+     padding-left: 80px;
+     background-color: #212121;
+     font-family: 'Courier New';
+     height: 400px;
+
+}
+
+ .bots{
+
+    color: white;
+    margin-left: -40px;
+    padding-top: 80px;
+
+ }
+
+  .phone{
+    color: white;
+    margin-top: -40px;
+    margin-left: 220px;
+ }
+
+  .vill{
+    color: white;
+    margin-top: -165px;
+    margin-left: 550px;
+    padding-bottom: 260px;
+ }
+ .site{
+    color: white;
+    margin-top: -353px;
+    margin-left: 1040px;
+
+ }
+
+ .all{
+    color: white;
+    margin-top: 160px;
+    margin-left: -40px;
+ }
+ .term{
+    color: rgb(249, 248, 248);
+    margin-top: -16px;
+    margin-left: 920px;
+ }
